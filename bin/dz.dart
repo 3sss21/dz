@@ -31,7 +31,7 @@ void main(List<String> arguments) {
 // print(array1[0]);
 // print(array1[2]);
 // print(array1[3].runtimeType);
-/*final i =0;
+final i =0;
 var sum = 1;
 sum = 23;
 const number = 23;
@@ -41,5 +41,5 @@ print(i);
 print(sum);
 print(number);
 print(smth);
-*/
+
 }
